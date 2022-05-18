@@ -1,0 +1,2 @@
+# Personal-Diary-Management-System-In-C-Programming-
+Personal Diary Management System is built on the idea of creating Personal Daily Records, as well as adding and updating them. Users can safely enter their daily details here, and it takes little time. There is no risk of data loss because each section has excellent security. The recorded files are kept as private as possible. This system makes it simple to keep track of daily activities.
